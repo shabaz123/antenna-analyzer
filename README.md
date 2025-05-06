@@ -79,7 +79,7 @@ Repeat for the other zip files as required. When you checkout the order, you'll 
 
 Select **Global Shipping Direct Line**, which is usually the far cheaper delivery option. You can confirm the price in the box on the right, prior to finally paying (with, say PayPal).
 
-<img width="100%" align="left" src="images/order-example-3.jpg">
+<img width="100%" align="left" src="images/order-example-4.jpg">
 
 
 # Parts List
