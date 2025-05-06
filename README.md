@@ -72,7 +72,15 @@ Select one of the zip files and upload it. You can accept all the defaults, but 
 
 <img width="100%" align="left" src="images/order-example-2.jpg">
 
-Repeat for the other zip files as required. When you checkout the order, select **Global Shipping Direct Line**, which is usually the far cheaper delivery option.
+Repeat for the other zip files as required. When you checkout the order, you'll see a list of the three boards. Click on the checkbox on the left side, to select all the items. 
+
+<img width="100%" align="left" src="images/order-example-3.jpg">
+
+
+Select **Global Shipping Direct Line**, which is usually the far cheaper delivery option. You can confirm the price in the box on the right, prior to finally paying (with, say PayPal).
+
+<img width="100%" align="left" src="images/order-example-3.jpg">
+
 
 # Parts List
 
