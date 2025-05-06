@@ -64,7 +64,15 @@ You'll need the following zip files:
 
 [top-panel-gerbers.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/top-panel-gerbers.zip)
 
-To order, go to any PCB manufacturer, e.g. JLCPCB, register for an account, then click on **Order Now** and then click on **Add Gerber File**. Select one of the zip files and upload it. You can accept all the defaults, but feel free to play around with the PCB color options (some may cost more). Optionally, select **Remove Mark** which is in the **Mark on PCB** section (if you don't select Remove Mark, then a little serial number will appear on your board, and you might not want that for cosmetic reasons). Once you're done, click the **Save to Cart** button. Repeat for the other zip files as required. When you checkout the order, select **Global Shipping Direct Line**, which is usually the far cheaper delivery option.
+To order, go to any PCB manufacturer, e.g. JLCPCB, register for an account, then click on **Order Now** and then click on **Add Gerber File**. 
+
+<img width="100%" align="left" src="images/order-example-1.jpg">
+
+Select one of the zip files and upload it. You can accept all the defaults, but feel free to play around with the PCB color options (some may cost more, or take a couple of days longer to manufacture). Optionally, select **Remove Mark** which is in the **Mark on PCB** section (if you don't select Remove Mark, then a little serial number will appear on your board, and you might not want that for cosmetic reasons). Once you're done, click the **Save to Cart** button. 
+
+<img width="100%" align="left" src="images/order-example-2.jpg">
+
+Repeat for the other zip files as required. When you checkout the order, select **Global Shipping Direct Line**, which is usually the far cheaper delivery option.
 
 # Parts List
 
