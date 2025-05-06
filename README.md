@@ -25,6 +25,16 @@ To calibrate the instrument one-time after building it, you just need a HF signa
 
 (7) All is done!
 
+# Using It
+
+In normal use, connect the instrument up to your transmitter (maximum 2W! or use an attenuator) as well as your antenna. Then, follow these steps:
+
+(1) Turn the selector knob to the Set FSD position, and then, at your desired transmit frequency, transmit at approximately half a Watt, or 1W (2W max! or use an attenuator). Turn the rotary potentiometer on the front panel until the meter needle is at max.
+
+(2) Now you are free to select either the SWR or R/Z positions, and examine the values. A good SWR value will be low (leftmost on the meter dial), and a good impedance value will be 50 ohms (close to the center of the meter dial).
+
+(3) By slowly varying the transmit frequency, you should be able to find the antenna resonant frequency, by looking at the impedance. Picture a valley. If you traverse from low to high frequency, then the impedance will reduce down toward 50 ohm, and then beyond a certain frequency it will start increasing. The impedance valley bottom location is where the antenna is resonant.
+
 # Main Circuit Board
 The instrument is built using a printed circuit board that has snap-away sections for the rotary controls. Most of the parts are large surface-mount, which is easy to assemble using a good pair of tweezers and a decent soldering iron. Note: Don't solder the BNC and N sockets, until you've looked at the next section titled 'End Panel'.
 
