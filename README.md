@@ -102,6 +102,13 @@ You'll need the following zip files:
 
 [top-panel-gerbers.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/top-panel-gerbers.zip)
 
+If you intend to go the flexible controls PCB route, then you don't need the main-board-gerbers.zip file, and instead, you need to replace that with these two files:
+
+[mainboard-only-no-snap-off-areas.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/mainboard-only-no-snap-off-areas.zip)
+
+[controls-flex-gerbers.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/controls-flex-gerbers.zip)
+
+
 To order, go to any PCB manufacturer, e.g. JLCPCB, register for an account, then click on **Order Now** and then click on **Add Gerber File**. 
 
 <img width="100%" align="left" src="images/order-example-1.jpg">
