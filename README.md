@@ -35,7 +35,7 @@ In normal use, connect the instrument up to your transmitter (maximum 2W! or use
 
 (3) By slowly varying the transmit frequency, you should be able to find the antenna resonant frequency, by looking at the impedance. Picture a valley. If you traverse from low to high frequency, then the impedance will reduce down toward 50 ohm, and then beyond a certain frequency it will start increasing. The impedance valley bottom location is where the antenna is resonant.
 
-# Main Circuit Board
+# Main Circuit Board (with snap-off areas)
 The instrument is built using a printed circuit board that has snap-away sections for the rotary controls. Most of the parts are large surface-mount, which is easy to assemble using a good pair of tweezers and a decent soldering iron. Note: Don't solder the BNC and N sockets, until you've looked at the next section titled 'End Panel'.
 
 <img width="100%" align="left" src="3d-renders/main-board.jpg">
@@ -43,6 +43,23 @@ The instrument is built using a printed circuit board that has snap-away section
 This is what the underside looks like:
 
 <img width="100%" align="left" src="3d-renders/main-board-underside.jpg">
+
+As you can see, there are snap-off areas for the controls. Note that the PCB manufacturer may ask for an additional charge subsequently as a result of that. For instance, see JLC PCB rules here: https://jlcpcb.com/help/article/in-what-cases-will-there-be-charged-extra
+
+# Alternative Main Circuit Board (with no snap-off areas)
+If desired, you could order a PCB without the snap-off areas. You'd need to manually wire the controls (rotary switch and potentiometer) and resistor R8, or use a Flex PCB which is described next. 
+
+<img width="100%" align="left" src="3d-renders/mainboard-only-render.jpg">
+
+# Flex PCB Controls
+If you like, you could use a flexible PCB for the controls and resistor R8. This is what the design looks like:
+<img width="100%" align="left" src="3d-renders/flex-layout.jpg">
+
+Here is the 3D view of it:
+<img width="100%" align="left" src="3d-renders/flex-layout-top.jpg">
+
+Here is the underside view of it:
+<img width="100%" align="left" src="3d-renders/flex-layout-underside.jpg">
 
 # End Panel
 If you don't have the ability to drill holes, then optionally, an end panel printed circuit board can be created too. This eliminates needing to drill any holes.
