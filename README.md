@@ -141,27 +141,27 @@ The PDF parts list is downloadable here:
 
 The contents are reproduced here for convenience (including the FFC connector):
 
-**Row**|**Identifier**|**Value**|**Qty**|**Description**|**Source**|**Part Code**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-1|R1,R2,R3|3 x 150R Parallel|9|1206 150 ohm Resistor Thick Film 0.75W|Mouser|SG73P2BTTD151G
-2|R4|15k|1|0805 Resistor|Mouser|RCG080515K0FKEA
-3|R5|10k|1|0805 Resistor|Mouser|RCG080510K0FKEA
-4|R6|27k|1|0805 Resistor|Mouser|RCS080527K0FKEA
-5|R7|56k|1|0805 Resistor|Mouser|RCS080556K0FKEA
-6|R8|470R|1|0805 Resistor|Mouser|CRCW0805470RFKEA
-7|C1,C2,C3|470p|3|0805 Capacitor NP0 470pF|Mouser|08055A471J4T2A
-8|C4,C5,C6|100n|3|0805 Capacitor X7R 100nF|Mouser|KAM21BR71H104JT
-9|D1,D2,D3|1N5711W-7-F|3|Schottky Diode SOD-123|Mouser|1N5711W-7-F
-10|TP1,TP2|10k Trimmer|2|Trimmer Resistor 10k 3386P|Mouser|3386P-1-103T
-11|SK3|BNC Socket|1|BNC Socket 031-221-RFX|Mouser|031-221-RFX
-12|SK4|N Socket|1|N Socket 1-1337417-0|Mouser|1-1337417-0
-13|M1|100uA Panel Meter|1|85C17 100uA Panel Meter|AliExpress|85C17 100uA
-14|P1|5k LIN (B) Potentiometer|1|RV097 Linear (B) 5k Potentiometer |AliExpress|RV097 B 5k
-15|SW1|RS1010 Rotary Switch|1|RS1010 2 Pole 4 Way Switch|AliExpress|RS1010 2 Pole 4
-16|n/a|Knob|2|Potentiometer Knob 10mm dia|AliExpress|Knob Flower Axis Diameter 10mm
-17|n/a|8-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 8P 70mm
-18|n/a|4-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 4P 70mm
-19|n/a|FFC Connector|1|FPC 2.54mm Pitch Connector Flat Flexible Cable 8-way Straight (ideally)|AliExpress|FPC 2.54mm Pitch Connector Flat Flexible Cable Straight
+**Row**|**Identifier**|**Value**|**Qty**|**Description**|**Source**|**Part Code**|**Approx Total GBP**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+1|R1,R2,R3|3 x 150R Parallel|9|1206 150 ohm Resistor Thick Film 0.75W|Mouser|SG73P2BTTD151G|0.55
+2|R4|15k|1|0805 Resistor|Mouser|RCG080515K0FKEA|0.12
+3|R5|10k|1|0805 Resistor|Mouser|RCG080510K0FKEA|0.12
+4|R6|27k|1|0805 Resistor|Mouser|RCS080527K0FKEA|0.27
+5|R7|56k|1|0805 Resistor|Mouser|RCS080556K0FKEA|0.11
+6|R8|470R|1|0805 Resistor|Mouser|CRCW0805470RFKEA|0.07
+7|C1,C2,C3|470p|3|0805 Capacitor NP0 470pF|Mouser|08055A471J4T2A|0.54
+8|C4,C5,C6|100n|3|0805 Capacitor X7R 100nF|Mouser|KAM21BR71H104JT|0.21
+9|D1,D2,D3|1N5711W-7-F|3|Schottky Diode SOD-123|Mouser|1N5711W-7-F|0.35
+10|TP1,TP2|10k Trimmer|2|Trimmer Resistor 10k 3386P|Mouser|3386P-1-103T|3.68
+11|SK3|BNC Socket|1|BNC Socket 031-221-RFX|Mouser|031-221-RFX|2.49
+12|SK4|N Socket|1|N Socket 1-1337417-0|Mouser|1-1337417-0|6.18
+13|M1|100uA Panel Meter|1|85C17 100uA Panel Meter|AliExpress|85C17 100uA|
+14|P1|5k LIN (B) Potentiometer|1|RV097 Linear (B) 5k Potentiometer |AliExpress|RV097 B 5k|
+15|SW1|RS1010 Rotary Switch|1|RS1010 2 Pole 4 Way Switch|AliExpress|RS1010 2 Pole 4|
+16|n/a|Knob|2|Potentiometer Knob 10mm dia|AliExpress|Knob Flower Axis Diameter 10mm|
+17|n/a|8-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 8P 70mm|
+18|n/a|4-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 4P 70mm|
+19|n/a|FFC Connector|1|FPC 2.54mm Pitch Connector Flat Flexible Cable 8-way Straight (ideally)|AliExpress|FPC 2.54mm Pitch Connector Flat Flexible Cable Straight|
 
 
 
