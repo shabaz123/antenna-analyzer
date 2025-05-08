@@ -121,11 +121,15 @@ Repeat for the other zip files as required. When you checkout the order, you'll 
 
 <img width="100%" align="left" src="images/order-example-3.jpg">
 
+Note: If you're ordering the flexible controls PCB, then you need to perform the following steps:
+
+<img width="100%" align="left" src="images/flex-pcb-ordering.jpg">
 
 Select **Global Shipping Direct Line**, which is usually the far cheaper delivery option. You can confirm the price in the box on the right, prior to finally paying (with, say PayPal).
 
 <img width="100%" align="left" src="images/order-example-4.jpg">
 
+Note that if you're ordering the flexible PCB, then it's highly recommended to select the 'Payment after Review' option, so that the manufacturer can e-mail you any queries that they may have. If they have trouble understanding what the flexible PCB is supposed to look like, you could send them the flex PCB layout and 3D render screenshots, so that they have some context.
 
 # Parts List
 
