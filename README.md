@@ -36,7 +36,7 @@ In normal use, connect the instrument up to your transmitter (maximum 2W! or use
 (3) By slowly varying the transmit frequency, you should be able to find the antenna resonant frequency, by looking at the impedance. Picture a valley. If you traverse from low to high frequency, then the impedance will reduce down toward 50 ohm, and then beyond a certain frequency it will start increasing. The impedance valley bottom location is where the antenna is resonant.
 
 # Main Circuit Board (with snap-off areas)
-The instrument is built using a printed circuit board that has snap-away sections for the rotary controls. Most of the parts are large surface-mount, which is easy to assemble using a good pair of tweezers and a decent soldering iron. Note: Don't solder the BNC and N sockets, until you've looked at the next section titled 'End Panel'.
+The instrument is built using a printed circuit board that has snap-away sections for the rotary controls. Most of the parts are large surface-mount, which is easy to assemble using a good pair of tweezers and a decent soldering iron. Note: Don't solder the BNC and N sockets, until you've looked at the section further below titled 'End Panel'.
 
 <img width="100%" align="left" src="3d-renders/main-board.jpg">
 
