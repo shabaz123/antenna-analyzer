@@ -136,8 +136,9 @@ Note that if you're ordering the flexible PCB, then it's highly recommended to s
 The PDF parts list is downloadable here: 
 
 [parts-list.pdf](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/components/parts-list.pdf)
+NOTE: The PDF parts list is missing the Flat Flex Cable (FFC) connector, which is optional, it is only required if you're using the flex PCB.
 
-The contents are reproduced here for convenience:
+The contents are reproduced here for convenience (including the FFC connector):
 
 **Row**|**Identifier**|**Value**|**Qty**|**Description**|**Source**|**Part Code**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
@@ -159,14 +160,7 @@ The contents are reproduced here for convenience:
 16|n/a|Knob|2|Potentiometer Knob 10mm dia|AliExpress|Knob Flower Axis Diameter 10mm
 17|n/a|8-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 8P 70mm
 18|n/a|4-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 4P 70mm
-
-
-
-
-
-
-
-
+19|n/a|FFC Connector|1|FPC 2.54mm Pitch Connector Flat Flexible Cable 8-way Straight (ideally)|AliExpress|FPC 2.54mm Pitch Connector Flat Flexible Cable Straight
 
 
 
