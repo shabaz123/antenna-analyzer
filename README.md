@@ -61,6 +61,17 @@ Here is the 3D view of it:
 Here is the underside view of it:
 <img width="100%" align="left" src="3d-renders/flex-layout-underside.jpg">
 
+To use this flex PCB, you'll need to attach a Flat Flexible Cable (FFC) connector onto the mainboard:
+<img width="100%" align="left" src="3d-renders/ffc-conn-detail.jpg">
+
+The connector is available from AliExpess, search for **FPC 2.54mm Pitch Connector Flat Flexible Cable** and select an 8-way connector. There are straight and right-angle options. The 3D render above shows a right-angle connector, but a straight connector is probably easier to install without hitting the meter. 
+
+## Important: Connector Orientation
+Install the connector such that the Pin 1 marking on the flexible PCB mates with Pin 1 on the mainboard, which is indicated by a square pad. 
+
+NOTE: You also have to ensure that the springy side of the terminal inside the connector mates with the copper side of the flexible PCB, to make good contact. If you're unsure, use a multimeter set to continuity mode and check there is good contact before soldering the connector. This will help eliminate the risk of installing the connector the wrong way around.
+
+
 # End Panel
 If you don't have the ability to drill holes, then optionally, an end panel printed circuit board can be created too. This eliminates needing to drill any holes.
 
