@@ -136,7 +136,8 @@ Note that if you're ordering the flexible PCB, then it's highly recommended to s
 The PDF parts list is downloadable here: 
 
 [parts-list.pdf](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/components/parts-list.pdf)
-NOTE: The PDF parts list is missing the Flat Flex Cable (FFC) connector, which is optional, it is only required if you're using the flex PCB.
+
+**NOTE**: The PDF parts list is missing the Flat Flex Cable (FFC) connector, which is optional, it is only required if you're using the flex PCB.
 
 The contents are reproduced here for convenience (including the FFC connector):
 
