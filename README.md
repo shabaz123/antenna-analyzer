@@ -8,6 +8,11 @@ There's a 4-position rotary selector knob. By using that, it is possible to sele
 
 <img width="100%" align="left" src="images/overview-diag.jpg">
 
+# Circuit Diagram
+
+<img width="100%" align="left" src="circuit-diagram/antenna-analyzer-schematic.jpg">
+
+
 # One-Time Calibration
 To calibrate the instrument one-time after building it, you just need a HF signal source of adjustable power. Do the following:
 
