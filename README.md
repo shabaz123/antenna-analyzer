@@ -88,12 +88,24 @@ The BNC and N sockets are simply screwed onto the panel, and the ring tags can b
 
 After you've done that, the BNC and N connectors can be soldered to the main board PCB and then solder the edge of the main board against the horizontal bare copper area on the end panel.
 
+# Meter Dial
+To remove the existing meter dial (100uA scale) remove the meter side ears (they are white and look like paddles, they might not be fitting to the meter as supplied). Next, carefully remove the black bezel from the meter. It just unclips, if you gently bend the side lobes of the bezel (careful, they can break!).
+
+There is a white wedge-shaped meter zero position adjustment on the front of the meter. Rotate it so that the white wedge is centered for now. Next, unscrew the two small screws that hold the front clear plastic to the meter, and carefully lift off the front plastic. This is easier when that white wedge has been centered. 
+
+You'll see that the meter dial/scale is a thin aluminium plate that has been painted white with black lettering. Unscrew the two screws that hold the meter dial to the meter, and then slide it out, without accidentally bending the meter needle!
+
+There are two options as to how to replace the meter dial.
+
+(1) Print off the [SVG meter dial](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/images/meter-dial-antenna-analyzer.svg) onto a sheet of paper (you may have to experiment with it to size it perfectly) and then cut and glue it to the plain aluminium side of the existing meter dial.
+(2) Use the [meter dial Gerber file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/meter-dial-antenna-analyzer-gerbers.zip) and upload it to a PCB manufacturer website, selecting 0.8 mm thickness aluminium PCB. When it arrives, it should be a direct replacement for the existing meter dial, although it will be slightly thicker (ideally it would be 0.25 - 0.3 mm thick, but that's not feasible at a reasonable cost from PCB manufacturers).
+
 # Top Panel
 Optionally, if desired, you could use the top panel printed circuit board, if you don't have a way to cut out a meter panel rectangular hole. The top panel eliminates needing to cut out anything!
 
 <img width="100%" align="left" src="3d-renders/top-panel.jpg">
 
-The meter side ears are removed, and then the meter is fitted into the panel, and then the side ears are fitted on, and rotated until the meter is held in position firmly.
+The white meter side ears are removed, then carefully unclip the black bezel and then insert the bezel into the top panel, and then the meter is fitted to the bezel from below the top panel, and then the side ears are fitted on, and rotated until the meter is held in position firmly.
 
 <img width="100%" align="left" src="3d-renders/top-panel-inside.jpg">
 
@@ -106,6 +118,8 @@ You'll need the following zip files:
 [end-panel-gerbers.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/end-panel-gerbers.zip)
 
 [top-panel-gerbers.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/top-panel-gerbers.zip)
+
+[meter-dial-antenna-analyzer-gerbers.zip](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/meter-dial-antenna-analyzer-gerbers.zip)
 
 If you intend to go the flexible controls PCB route, then you don't need the main-board-gerbers.zip file, and instead, you need to replace that with these two files:
 
@@ -122,7 +136,7 @@ Select one of the zip files and upload it. You can accept all the defaults, but 
 
 <img width="100%" align="left" src="images/order-example-2.jpg">
 
-Repeat for the other zip files as required. When you checkout the order, you'll see a list of the three boards. Click on the checkbox on the left side, to select all the items. 
+Repeat for the other zip files as required. For the meter dial, make sure you select 0.8 mm thickness, rather than the default 1.6 mm thickness. When you checkout the order, you'll see a list of all of the boards that you uploaded. Click on the checkbox on the left side, to select all the items. 
 
 <img width="100%" align="left" src="images/order-example-3.jpg">
 
