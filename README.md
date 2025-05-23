@@ -98,7 +98,10 @@ You'll see that the meter dial/scale is a thin aluminium plate that has been pai
 There are two options as to how to replace the meter dial.
 
 (1) Print off the [SVG meter dial](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/images/meter-dial-antenna-analyzer.svg) onto a sheet of paper (you may have to experiment with it to size it perfectly) and then cut and glue it to the plain aluminium side of the existing meter dial.
+
 (2) Use the [meter dial Gerber file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/meter-dial-antenna-analyzer-gerbers.zip) and upload it to a PCB manufacturer website, selecting 0.8 mm thickness aluminium PCB. When it arrives, it should be a direct replacement for the existing meter dial, although it will be slightly thicker (ideally it would be 0.25 - 0.3 mm thick, but that's not feasible at a reasonable cost from PCB manufacturers).
+
+<img width="100%" align="left" src="images/meter-dial-png.png">
 
 # Top Panel
 Optionally, if desired, you could use the top panel printed circuit board, if you don't have a way to cut out a meter panel rectangular hole. The top panel eliminates needing to cut out anything!
