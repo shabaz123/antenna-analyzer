@@ -177,11 +177,11 @@ The contents are reproduced here for convenience (including the FFC connector):
 10|TP1,TP2|10k Trimmer|2|Trimmer Resistor 10k 3386P|Mouser|3386P-1-103T|3.68
 11|SK3|BNC Socket|1|BNC Socket 031-221-RFX|Mouser|031-221-RFX|2.49
 12|SK4|N Socket|1|N Socket 1-1337417-0|Mouser|1-1337417-0|6.18
-13|M1|100uA Panel Meter|1|85C17 100uA Panel Meter|AliExpress|85C17 100uA|
-14|P1|5k LIN (B) Potentiometer|1|RV097 Linear (B) 5k Potentiometer |AliExpress|RV097 B 5k|
-15|SW1|RS1010 Rotary Switch|1|RS1010 2 Pole 4 Way Switch|AliExpress|RS1010 2 Pole 4|
-16|n/a|Knob|2|Potentiometer Knob 10mm dia|AliExpress|Knob Flower Axis Diameter 10mm|
-17|n/a|8-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 8P 70mm|
-18|n/a|4-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 4P 70mm|
-19|n/a|FFC Connector|1|FPC 2.54mm Pitch Connector Flat Flexible Cable 8-way Straight (ideally)|AliExpress|FPC 2.54mm Pitch Connector Flat Flexible Cable Straight|
+13|M1|100uA Panel Meter|1|85C17 100uA Panel Meter|AliExpress|85C17 100uA|3.41
+14|P1|5k LIN (B) Potentiometer|1|RV097 Linear (B) 5k Potentiometer |AliExpress|RV097 B 5k|0.41
+15|SW1|RS1010 Rotary Switch|1|RS1010 2 Pole 4 Way Switch|AliExpress|RS1010 2 Pole 4|0.88
+16|n/a|Knob|2|Potentiometer Knob 10mm dia|AliExpress|Knob Flower Axis Diameter 10mm|0.38
+17|n/a|8-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 8P 70mm|0.29
+18|n/a|4-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 4P 70mm|0.28
+19|n/a|FFC Connector|1|FPC 2.54mm Pitch Connector Flat Flexible Cable 8-way Straight (ideally)|AliExpress|FPC 2.54mm Pitch Connector Flat Flexible Cable Straight|0.17
 
