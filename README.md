@@ -89,7 +89,7 @@ The BNC and N sockets are simply screwed onto the panel, and the ring tags can b
 After you've done that, the BNC and N connectors can be soldered to the main board PCB and then solder the edge of the main board against the horizontal bare copper area on the end panel.
 
 # Meter Dial
-To remove the existing meter dial (100uA scale) remove the meter side ears (they are white and look like paddles, they might not be fitting to the meter as supplied). Next, carefully remove the black bezel from the meter. It just unclips, if you gently bend the side lobes of the bezel (careful, they can break!).
+To remove the existing meter dial (100uA scale) remove the meter side ears (they look like paddles, they might not be fitted to the meter as supplied). Next, carefully remove the black bezel from the meter. It just unclips, if you gently bend the side lobes of the bezel just a fraction of a degree (careful, they can break!).
 
 There is a white wedge-shaped meter zero position adjustment on the front of the meter. Rotate it so that the white wedge is centered for now. Next, unscrew the two small screws that hold the front clear plastic to the meter, and carefully lift off the front plastic. This is easier when that white wedge has been centered. 
 
@@ -108,7 +108,7 @@ Optionally, if desired, you could use the top panel printed circuit board, if yo
 
 <img width="100%" align="left" src="3d-renders/top-panel.jpg">
 
-The white meter side ears are removed, then carefully unclip the black bezel and then insert the bezel into the top panel, and then the meter is fitted to the bezel from below the top panel, and then the side ears are fitted on, and rotated until the meter is held in position firmly.
+The meter side ears are removed, then carefully unclip the black bezel and then insert the bezel into the top panel, and then the meter is fitted to the bezel from below the top panel, and then the side ears are fitted on, and rotated until the meter is held in position firmly.
 
 <img width="100%" align="left" src="3d-renders/top-panel-inside.jpg">
 
@@ -184,13 +184,4 @@ The contents are reproduced here for convenience (including the FFC connector):
 17|n/a|8-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 8P 70mm|
 18|n/a|4-way Cable|1|2.54 mm Pitch Grey Flat Cable 70mm|AliExpress|2.54mm Flat Cable 4P 70mm|
 19|n/a|FFC Connector|1|FPC 2.54mm Pitch Connector Flat Flexible Cable 8-way Straight (ideally)|AliExpress|FPC 2.54mm Pitch Connector Flat Flexible Cable Straight|
-
-
-
-
-
-
-
-
-
 
