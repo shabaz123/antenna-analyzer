@@ -58,6 +58,9 @@ If desired, you could order a PCB without the snap-off areas. You'd need to manu
 
 # Enclosure
 You could 3D-print an enclosure if desired. A wood enclosure is another possibility.
+
+Use the front panel PCB, and the end panel PCB, as guides to create the enclosure, and confirm they will fit.
+
 <img width="100%" align="left" src="images/box-glue1.jpg">
 
 <img width="100%" align="left" src="images/box-glue2.jpg">
