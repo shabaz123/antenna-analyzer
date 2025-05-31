@@ -1,6 +1,8 @@
 # Antenna Analyzer
 This repository contains the detail to construct a VHF/UHF antenna analyzer instrument designed by VK5JST (Amateur Radio, May 2005). Refer to the original article for more information concerning it. The design was entered into KiCad software by TDARS, to create the printed circuit boards described here.
 
+<img width="100%" align="left" src="images/external-complete.jpg">
+
 # Overview
 The analyzer has two connections; one from the radio transmitter (2W max, but you could use an attenuator), and one to the antenna. Note that the instrument also supports HF, but you'll still need to limit power to 2W max, or use an attenuator.
 
@@ -56,6 +58,9 @@ If desired, you could order a PCB without the snap-off areas. You'd need to manu
 
 <img width="100%" align="left" src="3d-renders/mainboard-only-render.jpg">
 
+<img width="100%" align="left" src="images/main-board-complete.jpg">
+
+
 # Enclosure
 You could 3D-print an enclosure if desired. A wood enclosure is another possibility.
 
@@ -104,7 +109,13 @@ The BNC and N sockets are simply screwed onto the panel (order is: put crinkle w
 
 <img width="100%" align="left" src="images/rf-conn-board-steps.jpg">
 
-After you've done that, the BNC and N connectors can be soldered to the main board PCB and then solder the edge of the main board against the horizontal bare copper area on the end panel.
+<img width="100%" align="left" src="images/rf-conn-rings-soldered.jpg">
+
+After you've done that, the BNC and N connectors can be soldered to the main board PCB and then solder the edge of the main board against the horizontal bare copper area on the end panel. 
+
+NOTE: It's probably a good idea to use epoxy glue to secure the RF connectors to their nuts, and to the PCB, so that the RF connectors cannot rotate even slightly (which would tear the RF connector center pin connection to the PCB tracks!
+
+<img width="100%" align="left" src="images/main-board-end-panel-soldered.jpg">
 
 # Meter Dial
 To remove the existing meter dial (100uA scale) remove the meter side ears (they look like paddles, they might not be fitted to the meter as supplied). Next, carefully remove the black bezel from the meter. It just unclips, if you gently bend the side lobes of the bezel just a fraction of a degree (careful, they can break!).
@@ -137,6 +148,21 @@ The meter side ears are removed, then carefully unclip the black bezel and then 
 <img width="100%" align="left" src="images/fp-assembled-rear.jpg">
 
 <img width="100%" align="left" src="images/fp-assembled-top.jpg">
+
+# Final Assembly
+
+The top panel is screwed into the enclosure first. Then, the end panel (with the main board soldered on) is brought into position, to plug in the flex PCB. 
+
+The photo here shows the flex PCB plugged into the main board:
+
+<img width="100%" align="left" src="images/flex-pcb-plugged-main.jpg">
+
+Screw the end panel into position.
+
+<img width="100%" align="left" src="images/internals-complete.jpg">
+
+All is complete, ready for testing and calibration!
+
 
 # Ordering the Circuit Boards
 
