@@ -52,9 +52,15 @@ This is what the underside looks like:
 As you can see, there are snap-off areas for the controls. Note that the PCB manufacturer may ask for an additional charge subsequently as a result of that. For instance, see JLC PCB rules here: https://jlcpcb.com/help/article/in-what-cases-will-there-be-charged-extra
 
 # Alternative Main Circuit Board (with no snap-off areas)
-If desired, you could order a PCB without the snap-off areas. You'd need to manually wire the controls (rotary switch and potentiometer) and resistor R8, or use a Flex PCB which is described next. 
+If desired, you could order a PCB without the snap-off areas. You'd need to manually wire the controls (rotary switch and potentiometer) and resistor R8, or use a Flex PCB which is described further below. 
 
 <img width="100%" align="left" src="3d-renders/mainboard-only-render.jpg">
+
+# Enclosure
+You could 3D-print an enclosure if desired. A wood enclosure is another possibility.
+<img width="100%" align="left" src="images/box-glue1.jpg">
+
+<img width="100%" align="left" src="images/box-glue2.jpg">
 
 # Flex PCB Controls
 If you like, you could use a flexible PCB for the controls and resistor R8. This is what the design looks like:
