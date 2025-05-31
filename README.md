@@ -66,6 +66,13 @@ Here is the 3D view of it:
 Here is the underside view of it:
 <img width="100%" align="left" src="3d-renders/flex-layout-underside.jpg">
 
+Here is what it looks like when the flex PCB is assembled:
+<img width="100%" align="left" src="images/flex-construction-underside.jpg">
+
+<img width="100%" align="left" src="images/flex-construction-topside.jpg">
+
+<img width="100%" align="left" src="images/flex-front-panel-install.jpg">
+
 To use this flex PCB, you'll need to attach a Flat Flexible Cable (FFC) connector onto the mainboard:
 <img width="100%" align="left" src="3d-renders/ffc-conn-detail.jpg">
 
@@ -82,9 +89,11 @@ If you don't have the ability to drill holes, then optionally, an end panel prin
 
 <img width="100%" align="left" src="3d-renders/end-panel.jpg">
 
-The BNC and N sockets are simply screwed onto the panel, and the ring tags can be soldered down.
+The BNC and N sockets are simply screwed onto the panel (order is: put crinkle washer on first, then the ring tag, then the nut), and the ring tags can be soldered down (it will be easier if you slightly bend the ring tag terminal beforehand).
 
 <img width="100%" align="left" src="3d-renders/end-panel-inside.jpg">
+
+<img width="100%" align="left" src="images/rf-conn-board-steps.jpg">
 
 After you've done that, the BNC and N connectors can be soldered to the main board PCB and then solder the edge of the main board against the horizontal bare copper area on the end panel.
 
@@ -93,11 +102,15 @@ To remove the existing meter dial (100uA scale) remove the meter side ears (they
 
 There is a white wedge-shaped meter zero position adjustment on the front of the meter. Rotate it so that the white wedge is centered for now. Next, unscrew the two small screws that hold the front clear plastic to the meter, and carefully lift off the front plastic. This is easier when that white wedge has been centered. 
 
+<img width="100%" align="left" src="images/meter-dial-cover.jpg">
+
 You'll see that the meter dial/scale is a thin aluminium plate that has been painted white with black lettering. Unscrew the two screws that hold the meter dial to the meter, and then slide it out, without accidentally bending the meter needle!
 
 There are two options as to how to replace the meter dial.
 
-(1) Print off the [SVG meter dial](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/images/meter-dial-antenna-analyzer.svg) onto a sheet of paper (you may have to experiment with it to size it perfectly) and then cut and glue it to the plain aluminium side of the existing meter dial.
+(1) Print off the [SVG meter dial](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/images/meter-dial-antenna-analyzer.svg) onto a sheet of paper (you may have to experiment with it to size it perfectly) and then cut and glue it to the plain aluminium side of the existing meter dial. An excellent thin watery glue is "Tombow Mono Multi Liquid Glue" intended for cardboard.
+
+<img width="100%" align="left" src="images/printed-dial.jpg">
 
 (2) Use the [meter dial Gerber file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/gerbers/meter-dial-antenna-analyzer-gerbers.zip) and upload it to a PCB manufacturer website, selecting 0.8 mm thickness aluminium PCB. When it arrives, it should be a direct replacement for the existing meter dial, although it will be slightly thicker (ideally it would be 0.25 - 0.3 mm thick, but that's not feasible at a reasonable cost from PCB manufacturers).
 
@@ -111,6 +124,10 @@ Optionally, if desired, you could use the top panel printed circuit board, if yo
 The meter side ears are removed, then carefully unclip the black bezel and then insert the bezel into the top panel, and then the meter is fitted to the bezel from below the top panel, and then the side ears are fitted on, and rotated until the meter is held in position firmly.
 
 <img width="100%" align="left" src="3d-renders/top-panel-inside.jpg">
+
+<img width="100%" align="left" src="images/fp-assembled-rear.jpg">
+
+<img width="100%" align="left" src="images/fp-assembled-top.jpg">
 
 # Ordering the Circuit Boards
 
