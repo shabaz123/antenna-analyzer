@@ -60,6 +60,12 @@ If desired, you could order a PCB without the snap-off areas. You'd need to manu
 
 <img width="100%" align="left" src="images/main-board-complete.jpg">
 
+# Wire Link!
+
+Important - don't forget to solder the wire link on the main board! It should be soldered on the underside as shown in the photo (so that the PCB ground plane can shield it from the component side).
+
+<img width="100%" align="left" src="images/main-board-underside.jpg">
+
 
 # Enclosure Planning
 You could 3D-print an enclosure if desired. A wood enclosure is another possibility.
