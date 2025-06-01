@@ -60,9 +60,11 @@ If desired, you could order a PCB without the snap-off areas. You'd need to manu
 
 <img width="100%" align="left" src="images/main-board-complete.jpg">
 
-# Wire Link!
+# Wire Link! And Flex Connector Orientation
 
 Important - don't forget to solder the wire link on the main board! It should be soldered on the underside as shown in the photo (so that the PCB ground plane can shield it from the component side).
+
+Also, note how the flex connector is oriented in the photo below. This orientation will hopefully allow it to make good contact with the copper side of the flex PCB.
 
 <img width="100%" align="left" src="images/main-board-underside.jpg">
 
