@@ -81,6 +81,9 @@ Here is the 3D view of it:
 Here is the underside view of it:
 <img width="100%" align="left" src="3d-renders/flex-layout-underside.jpg">
 
+The potentiometer and rotary switch bodies both have a little protrusion key that is used to prevent them rotating along with the shaft. The top panel PCB does not have keyholes for that, so you'll need to dremel or file off the protrusions or find some other way of removing them. I used heavy-duty wire cutters, but it will probably damage the cutters slightly. 
+You could use epoxy glue to secure the potentiometer bodies as shown in the photos below. I decided not to use the shaft nuts to secure the potentiometer and rotary switch, because I wanted to recess them a little bit, and I just used glue. Perhaps a 3D-printed mount could be glued onto the underside of the top panel, to make them flush from the top side.
+
 Here is what it looks like when the flex PCB is assembled:
 <img width="100%" align="left" src="images/flex-construction-underside.jpg">
 
