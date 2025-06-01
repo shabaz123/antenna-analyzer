@@ -61,8 +61,9 @@ If desired, you could order a PCB without the snap-off areas. You'd need to manu
 <img width="100%" align="left" src="images/main-board-complete.jpg">
 
 
-# Enclosure
+# Enclosure Planning
 You could 3D-print an enclosure if desired. A wood enclosure is another possibility.
+For the full set of dimensions, refer to the "Dimensions" section further below.
 
 Use the front panel PCB, and the end panel PCB, as guides to create the enclosure, and confirm they will fit.
 
@@ -162,6 +163,15 @@ Screw the end panel into position.
 <img width="100%" align="left" src="images/internals-complete.jpg">
 
 All is complete, ready for testing and calibration!
+
+# Dimensions
+The information in these photos/diagrams may be helpful if you're designing an enclosure.
+
+<img width="100%" align="left" src="images/dims-panel-detail.jpg">
+
+<img width="100%" align="left" src="images/dims-rear-view.jpg">
+
+<img width="100%" align="left" src="images/dims-end-panel-cutout.jpg">
 
 
 # Ordering the Circuit Boards
