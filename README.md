@@ -71,8 +71,10 @@ Also, note how the flex connector is oriented in the photo below. This orientati
 
 # Enclosure Planning
 You could 3D-print an enclosure if desired. There are two existing 3D printed enclosure styles, developed by Paul M0PLA.
-<img width="100%" align="left" src="images/box-styles.jpg">
-The difference is that style V3 has a sloped top. To print either of them, download the [style V1 STL file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/3d-renders/swr-box-v1.stl) or the [style V3 STL file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/3d-renders/swr-box-v3.stl)
+
+<img width="100%" align="left" src="images/box-versions-photo.jpg">
+
+The difference is that style V3 has a sloped top. To print either of them, download the [style V1 STL file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/3d-renders/swr-box-v1.stl) or the [style V3 STL file](https://github.com/shabaz123/antenna-analyzer/raw/refs/heads/main/3d-renders/swr-box-v3.stl) and 3D-print it (or use a 3D print service).
 
 A wood enclosure is another possibility.
 For the full set of dimensions, refer to the "Dimensions" section further below.
